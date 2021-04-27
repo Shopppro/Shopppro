@@ -1,2 +1,2 @@
 # Shopppro
-Shopppro's vision: an open-source ecommerce framework
+Shopppro's vision is to be an open-source ecommerce framework
